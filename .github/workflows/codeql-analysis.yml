@@ -3,7 +3,7 @@ name: "CodeQL Scan"
 on:
   push:
     branches: 
-      -develop
+      - develop
       
   pull_request:
 
